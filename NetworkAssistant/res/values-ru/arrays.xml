@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+	<string-array name="traffic_sort_type">
+        <item>По имени</item>
+        <item>По 2G/3G трафику</item>
+        <item>По общему трафику</item>
+    </string-array>
+	<string-array name="date_of_traffic">
+        <item>Трафик за вчера</item>
+        <item>Трафик за сегодня</item>
+        <item>Трафик за месяц</item>
+    </string-array>
+</resources>

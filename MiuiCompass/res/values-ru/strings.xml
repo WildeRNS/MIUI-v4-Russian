@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_label">Компас</string>
+    <string name="getting_location">Получение координат...</string>
+    <string name="cannot_get_location">Не удалось получить координаты</string>
+    <string name="location_north">%s С</string>
+    <string name="location_south">%s Ю</string>
+    <string name="location_east">%s В</string>
+    <string name="location_west">%s З</string>
+    <string name="menu_calibrate">Калибровать</string>
+    <string name="dialog_title">Отмена калибровки</string>
+    <string name="dialog_content">Компас не закончил калибровку, которая может привести к неточности. Вы действительно хотите отменить?</string>
+    <string name="calibrate_success">Калибровка успешно выполнена</string>
+    <string name="user_guide_calibrate">Нажмите кнопку МЕНЮ для калибровки компаса</string>
+    <string name="toast_accuracy_low">Низкая точность калибровки. Нажмите МЕНЮ для повтора</string>
+</resources>
