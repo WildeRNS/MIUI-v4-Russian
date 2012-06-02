@@ -1016,7 +1016,7 @@
     <string name="version_text">Версия %1$s</string>
     <string name="move_app">Переместить</string>
     <string name="move_app_to_internal">Переместить на телефон</string>
-    <string name="move_app_to_sdcard">Перенести на USB</string>
+    <string name="move_app_to_sdcard">Перенести на SD карту</string>
     <string name="moving">Перемещение</string>
     <string name="insufficient_storage">Недостаточно места.</string>
     <string name="does_not_exist">Приложение не установлено.</string>
