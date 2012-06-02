@@ -549,7 +549,7 @@
     <string name="sim_no_contact">Нет контактов на SIM-карте</string>
     <string name="sim_indexed_contact_not_exist">Позиция %1$d на SIM-карте не допустима, следует выбрать между %2$d and %3$d</string>
     <string name="sim_contact_search_error">Возникла ошибка при поиске контактов SIM карты</string>
-    <string name="empty_divider_title">You can</string>
+    <string name="empty_divider_title">Вы можете</string>
     <string name="noContactHelpTextAccountsInfo">Синхронизировать Google, Exchange контакты. </string>
     <string name="sync_xiaomi_cloud_contacts">Восстановление из онлайн резервной копии </string>
     <string name="noContactHelpTextImportXiaomiAccountInfo">Восстановление данных из резервной копии на Xiaomi и MiTalk </string>
