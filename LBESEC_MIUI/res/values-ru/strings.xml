@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
-	<string name="app_name">Диспетчер разрешений</string>
+	<string name="app_name">Разрешения</string>
 	<string name="Generic_Copyright">Разработка LBE Privacy Guard</string>
 	<string name="Generic_Version">Версия: %1$s</string>
 	<string name="Generic_Configuration">Параметры</string>
