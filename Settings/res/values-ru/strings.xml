@@ -1455,7 +1455,7 @@
     <string name="immediately_destroy_activities">Не сохранять действия</string>
     <string name="immediately_destroy_activities_summary">Удалять сводку действий после их завершения</string>
     <string name="app_process_limit_title">Лимит фоновых процессов</string>
-    <string name="show_all_anrs">Все ANR</string>
+    <string name="show_all_anrs">Показывать ANR</string>
     <string name="show_all_anrs_summary">Уведомлять о том, что приложение не отвечает</string>
     <string name="data_usage_summary_title">Передача данных</string>
     <string name="data_usage_cycle">Цикл использования данных</string>
