@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
-    <string name="toast_fm_not_played">Невозможно включить FM радио</string>
+    <string name="toast_fm_not_played">Невозможно включить радио</string>
     <string name="headset_disconnect">Наушники отключены. Радио будет выключено</string>
     <string name="toast_tap_to_rename">Нажмите чтобы переименовать</string>
     <string name="toast_channel_invalid">Неверная частота</string>
@@ -23,8 +23,8 @@
     <string name="dialog_channel_one_found_south_region">%1$s MHz канал найден. Всего найден 1 канал</string>
     <string name="toast_channel_found">%1$d %1$d.%2$d MHz канал найден. Всего найдено каналов %3$d</string>
     <string name="toast_one_channel_found">1 канал найден при сканировании</string>
-    <string name="toast_on_alert">Включите FM радио</string>
-    <string name="app_name">FM радио</string>
+    <string name="toast_on_alert">Включите Радио</string>
+    <string name="app_name">Радио</string>
     <string name="scan">Сканировать</string>
     <string name="remove">Удалить</string>
     <string name="settings">Настройки</string>
@@ -87,8 +87,8 @@
     <string name="toast_no_channel_found">Канал не найден</string>
     <string name="toast_unavailable_in_tvout_mode">Недоступно в ТВ-режиме</string>
     <string name="seeking">Поиск...</string>
-    <string name="via_earphone">Через наушники</string>
-    <string name="via_speaker">Через динамик</string>
+    <string name="via_earphone">Наушники</string>
+    <string name="via_speaker">Громкоговоритель</string>
     <string name="normal_frequency">Нормальная частота</string>
     <string name="notify">U1 FM-радио поддерживается только в версии 0.7 HW или выше</string>
     <string name="audio_shock_warning">Громкая музыка может привести к повреждению слуха, если слушать ее в течение длительного времени</string>
