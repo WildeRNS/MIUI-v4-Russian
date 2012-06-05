@@ -5,7 +5,7 @@
     <string name="permission_read_attachment_desc">Приложение получит доступ к прикрепленным файлам в сообщениях эл. почты.</string>
     <string name="permission_access_provider_label">Доступ к данным сервиса эл. почты</string>
     <string name="permission_access_provider_desc">Приложение получит доступ к базе данных программы электронной почты, которая включает полученные и отправленные письма, имена пользователей и пароли.</string>
-    <string name="app_name">Email</string>
+    <string name="app_name">Почта</string>
     <string name="compose_title">Новое сообщение</string>
     <string name="debug_title">Выполнить отладку</string>
     <string name="next_action">Далее</string>
